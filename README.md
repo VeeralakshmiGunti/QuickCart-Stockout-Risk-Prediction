@@ -88,19 +88,19 @@ Random Forest performed better than Logistic Regression based on both accuracy a
 
 ### Stockout Risk Distribution
 
-![Stockout Risk Distribution](outputs/stockout_risk_distribution.png)
+![Stockout Risk Distribution](stockout_risk_distribution.png)
 
 ### Festival vs Non-Festival Stockout Risk
 
-![Festival vs Non-Festival Risk](outputs/festival_vs_nonfestival.png)
+![Festival vs Non-Festival Risk](festival_vs_nonfestival.png)
 
 ### Imminent Stockout Risk by Category
 
-![Imminent Risk by Category](outputs/imminent_risk_by_category.png)
+![Imminent Risk by Category](imminent_risk_by_category.png)
 
 ### Random Forest Feature Importance
 
-![Random Forest Feature Importance](outputs/random_forest_feature_importance.png)
+![Random Forest Feature Importance](random_forest_feature_importance.png)
 
 ## Conclusion
 
